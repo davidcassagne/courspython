@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   TP1.rst
+   densite_etats.rst
 
 Indices and tables
 ==================
