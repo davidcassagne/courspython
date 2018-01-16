@@ -37,4 +37,9 @@ Autre paragraphe
 * item 2
 * item 3
 
+**Liste à puces imbriquées**
+* item 1
+    * sous-item 1
+    * sous-item 2
+* item 2
 
