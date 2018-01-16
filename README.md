@@ -22,4 +22,14 @@ Titre 2
 
 Nouveau paragraphe
 
+Voici une autre façon de faire des titres
+
+# Titre de niveau 1
+
+## Titre de niveau 2
+
+### Titre de niveau 3
+
+Autre paragraphe
+
 
