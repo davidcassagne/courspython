@@ -32,4 +32,9 @@ Voici une autre façon de faire des titres
 
 Autre paragraphe
 
+**Liste à puces**
+* item 1
+* item 2
+* item 3
+
 
