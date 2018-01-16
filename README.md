@@ -14,4 +14,12 @@ Il est possible de mettre *en italique*.
 
 https://openclassrooms.com/courses/redigez-en-markdown
 
+Titre 1
+=======
+
+Titre 2
+-------
+
+Nouveau paragraphe
+
 
